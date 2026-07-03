@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='https://www-ljk.imag.fr/'>Laboratoire Jean Kuntzmann</a>, <a href='https://www.univ-grenoble-alpes.fr/'>Université Grenoble Alpes</a>
 
 profile:
-  align: left
+  align: right
   image: profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 195, IMAG Building</p>
     <p>150 Pl. du Torrent</p>
