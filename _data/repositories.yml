@@ -5,3 +5,4 @@ repo_description_lines_max: 3
 
 github_repos:
   - rverdiere/diffeo_feature_learning
+  - rverdiere/mollified_as
