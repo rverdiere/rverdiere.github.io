@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Romain Verdière, an applied mathematician and Temporary Teaching and Research Assistant (ATER) at Université Grenoble Alpes, working within the Laboratoire Jean Kuntzmann (LJK).
+I am currently a Temporary Teaching and Research Assistant (ATER) at Université Grenoble Alpes, working within the Laboratoire Jean Kuntzmann (LJK).
 On december 2025, I completed my PhD in the AIRSEA team in INRIA Grenoble under the supervsion of <a href='https://membres-ljk.imag.fr/Clementine.Prieur/'>Clémentine Prieur</a> and <a href='https://team.inria.fr/airsea/en/olivier-zahm/'>Olivier Zahm</a>.
 
 My research focuses on dimension reduction, gradient-based methods, uncertainty quantification and machine learning, with applications to high-dimensional model approximation and sensitivity analysis.
