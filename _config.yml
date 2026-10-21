@@ -2,15 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Romain Verdière # the website title (if blank, full name will be used instead)
+title: Romain Verdière | Applied Mathematics, Dimension Reduction & Machine Learning # the website title (if blank, full name will be used instead)
 first_name: Romain
 middle_name: 
 last_name: Verdière
 contact_note: >
 description: 
-  Personal academic website of Romain Verdière.
-  Research in Dimension Reduction, Uncertainty Quantification, 
-  Machine Learning and Applied Mathematics.
+Romain Verdière is an applied mathematician working on gradient-based dimension reduction, uncertainty quantification, sensitivity analysis, and machine learning at Université Grenoble Alpes. 
 footer_text: 
   #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

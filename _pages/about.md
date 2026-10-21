@@ -26,14 +26,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a Temporary Teaching and Research Assistant (ATER) at UFR IM2AG and Laboratoire Jean Kuntzmann (LJK). 
+
+I am Romain Verdière, an applied mathematician and Temporary Teaching and Research Assistant (ATER) at Université Grenoble Alpes, working within the Laboratoire Jean Kuntzmann (LJK).
 On december 2025, I completed my PhD in the AIRSEA team in INRIA Grenoble under the supervsion of <a href='https://membres-ljk.imag.fr/Clementine.Prieur/'>Clémentine Prieur</a> and <a href='https://team.inria.fr/airsea/en/olivier-zahm/'>Olivier Zahm</a>.
 
-My research to date has focused on:
-- Dimension reduction (both supervised and unsupervised)
-- Uncertainty quantification and sensitivity analysis
-- Approximation of probability densities (using sparse triangular transport maps)
-- Machine learning (Neural networks, Kernel methods)
+My research focuses on dimension reduction, gradient-based methods, uncertainty quantification and machine learning, with applications to high-dimensional model approximation and sensitivity analysis.
+
+My research interests include:
+- Gradient-based dimension reduction: supervised and unsupervised methods for identifying low-dimensional structure in high-dimensional problems.
+- Uncertainty quantification and sensitivity analysis: efficient methods for understanding the influence of uncertain inputs on mathematical models.
+- Function approximation and transport maps: approximation of probability densities using sparse triangular transport maps.
+- Machine learning in general: neural networks, kernel methods ...
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
